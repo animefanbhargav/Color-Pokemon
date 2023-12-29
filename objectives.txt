@@ -1,0 +1,7 @@
+
+
+- Load an image and find all unique colors
+- Assign numbers to the unique colors and display these numbers in image
+- Display uncolored image
+- Be able to Pick colors and fill the color in respective place (Drag and Drop)
+- Combine regions with similar color instead of pixel squares
